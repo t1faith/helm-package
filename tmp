@@ -1,0 +1,4 @@
+helm install kafka \
+  --set replicaCount=3 \
+  -n=hermes-chaos \
+  bitnami/kafka
