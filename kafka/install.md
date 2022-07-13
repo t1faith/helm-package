@@ -81,3 +81,6 @@ To create a pod that you can use as a Kafka client run the following commands:
             --topic test \
             --from-beginning
 ```
+
+# go kafka demo
+https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/go.html
